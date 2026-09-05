@@ -12,10 +12,10 @@ with a focus on building **AI-powered, customer-centric products**.
 <a href="https://akspor.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2F6BFF?style=for-the-badge" />
 </a>
-<a href="https://https://www.linkedin.com/in/callmeakshat/">
+<a href="https://www.linkedin.com/in/callmeakshat/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://https://github.com/gakshat415-lang?tab=repositories">
+<a href="https://github.com/gakshat415-lang?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Builds-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
