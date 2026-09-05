@@ -15,7 +15,7 @@ with a focus on building **AI-powered, customer-centric products**.
 <a href="https://https://www.linkedin.com/in/callmeakshat/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/gakshat415-lang">
+<a href="https://https://github.com/gakshat415-lang?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Builds-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
